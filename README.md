@@ -1,4 +1,4 @@
-# 💫 About Me:
+Front End Developer criando interfaces atraentes para web e aplicativos. Busco desafios e colaborações inovadoras. Vamos conectar?
 
 <br>
 

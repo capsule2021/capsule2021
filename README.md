@@ -34,4 +34,5 @@ Sou Jonatas Anunciação Dias, um desenvolvedor front-end apaixonado por criar i
   <a href="https://www.linkedin.com/in/jonatas-dias-06a71b213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
-![[Jonatas]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=capsule2021&show_icons=true&theme=radical)
+![[Your name]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=capsule2021&show_icons=true&theme=radical)
+

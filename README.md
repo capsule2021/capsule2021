@@ -4,7 +4,7 @@ Sou Jonatas Anunciação Dias, um desenvolvedor front-end apaixonado por criar i
 
 ## 🌐 Redes Sociais:
 
-!LinkedIn
+[!LinkedIn](https://www.linkedin.com/in/jonatas-dias-06a71b213/)
 
 ## 💻 Stack Tecnológica:
 

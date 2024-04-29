@@ -35,6 +35,9 @@ Sou Jonatas Anunciação Dias, um desenvolvedor front-end apaixonado por criar i
   
 </div>
 
+
+
+
 [![capsule2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=capsule2021&show_icons=true&theme=radical)](https://github.com/capsule2021)
 
 

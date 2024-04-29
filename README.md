@@ -35,4 +35,4 @@ Sou Jonatas Anunciação Dias, um desenvolvedor front-end apaixonado por criar i
   
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?capsule2021=anuraghazra&show_icons=true&theme=radical)
